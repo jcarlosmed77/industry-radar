@@ -1,0 +1,38 @@
+name: Actualizar Radar de Noticias
+
+on:
+  schedule:
+    # Se ejecuta automáticamente todos los días a las 12:00 UTC (06:00 AM hora de CDMX)
+    - cron: '0 12 * * *'
+  workflow_dispatch: # Permite que lo puedas correr a mano cuando quieras con un botón
+
+permissions:
+  contents: write # Permiso para que GitHub Actions pueda guardar el archivo radar.json
+
+jobs:
+  actualizar:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Clonar Repositorio
+        uses: actions/checkout@v4
+
+      - name: Configurar Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Instalar dependencias
+        run: |
+          pip install feedparser
+
+      - name: Ejecutar script de noticias
+        run: |
+          python radar.py
+
+      - name: Guardar y subir cambios
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add radar.json
+          git commit -m "Auto-update: Radar de Noticias [skip ci]" || exit 0
+          git push
