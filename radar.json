@@ -1,28 +1,28 @@
 {
-  "updated_at": "14/09/2026 17:59",
+  "updated_at": "15/09/2026 16:44",
   "articles": [
     {
       "tag": "AdTech & Medios",
       "time": "Hoy",
-      "title": "This Is What Sports Media Looks Like When Athletes Have the Right Technology",
-      "summary": "It seems like every athlete has a podcast or docuseries these days. From Travis Kelce and the Mannings to LeBron James and Cam Newton, athletes have gone from being the subject of sports media to becoming media businesse...",
-      "link": "https://www.adexchanger.com/content-studio/this-is-what-sports-media-looks-like-when-athletes-have-the-right-technology/",
+      "title": "Chrome Has A New Way To Measure Ad Overload On The Web",
+      "summary": "Ad-cluttered websites are bad for users. Who among hasn’t waited with mounting frustration for a banner-stuffed article to load or an ad-chocked webpage to struggle into view? But &#8220;we know it when we see it” isn&#8...",
+      "link": "https://www.adexchanger.com/publishers/chrome-has-a-new-way-to-measure-ad-overload-on-the-web/",
       "source": "AdExchanger"
     },
     {
       "tag": "Estrategia Digital",
       "time": "Hoy",
-      "title": "Media Buying Briefing: How Publicis keeps winning clients without pitches",
-      "summary": "PepsiCo and LVMH wins show Publicis has deliberately cultivated a habit of winning major media accounts outside the traditional review process.",
-      "link": "https://digiday.com/media-buying/media-buying-briefing-how-publicis-keeps-winning-clients-without-pitches/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+      "title": "Google debuts ‘ad detection tool,’ letting marketers better assess ad experiences in Chrome",
+      "summary": "Ad tech partners, media-buyers and publishers can now use 'CrUX' to understand how web space is evaluated.",
+      "link": "https://digiday.com/media-buying/google-debuts-ad-detection-tool-letting-marketers-better-assess-ad-experiences-in-chrome/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
       "source": "Digiday"
     },
     {
       "tag": "Inteligencia Artificial",
       "time": "Hoy",
-      "title": "With iOS 27, I’m actually using Siri again",
-      "summary": "Apple’s long-delayed Siri overhaul is finally here with iOS 27, and it changes how useful the assistant feels day to day",
-      "link": "https://techcrunch.com/2026/09/14/with-ios-27-im-actually-using-siri-again/",
+      "title": "OpenAI, Anthropic, Google have been in talks on AI safety for weeks",
+      "summary": "OpenAI confirms weeks of AI safety talks with Anthropic and Google DeepMind, as Trump's team dismisses safety concerns and pushes to keep pace with China.",
+      "link": "https://techcrunch.com/2026/09/15/openai-anthropic-google-have-been-in-talks-on-ai-safety-for-weeks/",
       "source": "TechCrunch AI"
     }
   ]
