@@ -1,28 +1,28 @@
 {
-  "updated_at": "15/09/2026 16:44",
+  "updated_at": "16/09/2026 16:37",
   "articles": [
     {
       "tag": "AdTech & Medios",
       "time": "Hoy",
-      "title": "Chrome Has A New Way To Measure Ad Overload On The Web",
-      "summary": "Ad-cluttered websites are bad for users. Who among hasn’t waited with mounting frustration for a banner-stuffed article to load or an ad-chocked webpage to struggle into view? But &#8220;we know it when we see it” isn&#8...",
-      "link": "https://www.adexchanger.com/publishers/chrome-has-a-new-way-to-measure-ad-overload-on-the-web/",
+      "title": "Horizon Is Bringing Roku’s TV Data ‘In House.’ Here’s What That Means For Advertisers",
+      "summary": "Horizon Media announced a direct integration with Roku to pipe its TV data into blu., the agency’s homegrown data and intelligence platform. The duo asserts that this is more than just another data integration. It’s a jo...",
+      "link": "https://www.adexchanger.com/tv/horizon-is-bringing-rokus-tv-data-in-house-heres-what-that-means-for-advertisers/",
       "source": "AdExchanger"
     },
     {
       "tag": "Estrategia Digital",
       "time": "Hoy",
-      "title": "Google debuts ‘ad detection tool,’ letting marketers better assess ad experiences in Chrome",
-      "summary": "Ad tech partners, media-buyers and publishers can now use 'CrUX' to understand how web space is evaluated.",
-      "link": "https://digiday.com/media-buying/google-debuts-ad-detection-tool-letting-marketers-better-assess-ad-experiences-in-chrome/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+      "title": "Future of TV Briefing: Every major streaming subscription price increase since 2019",
+      "summary": "This week’s Future of TV Briefing features charts breaking down every monthly subscription price change since 2019 across ad-free and ad-supported tiers for nine major streaming services.",
+      "link": "https://digiday.com/future-of-tv/future-of-tv-briefing-every-major-streaming-subscription-price-increase-since-2019/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
       "source": "Digiday"
     },
     {
       "tag": "Inteligencia Artificial",
       "time": "Hoy",
-      "title": "OpenAI, Anthropic, Google have been in talks on AI safety for weeks",
-      "summary": "OpenAI confirms weeks of AI safety talks with Anthropic and Google DeepMind, as Trump's team dismisses safety concerns and pushes to keep pace with China.",
-      "link": "https://techcrunch.com/2026/09/15/openai-anthropic-google-have-been-in-talks-on-ai-safety-for-weeks/",
+      "title": "Anthropic merges Claude chat and Cowork in one interface",
+      "summary": "Anthropic is releasing these features to Pro and Max plan subscribers initally",
+      "link": "https://techcrunch.com/2026/09/16/anthropic-merges-claude-chat-and-cowork-in-one-interface/",
       "source": "TechCrunch AI"
     }
   ]
