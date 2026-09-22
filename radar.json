@@ -1,28 +1,28 @@
 {
-  "updated_at": "21/09/2026 18:07",
+  "updated_at": "22/09/2026 16:43",
   "articles": [
     {
       "tag": "AdTech & Medios",
       "time": "Hoy",
-      "title": "Can Sell-Side Curation Solve The Cookieless Audience Problem For Advertisers?",
-      "summary": "Publishers are sitting on a treasure trove of audience data. But, to turn that data into revenue, publishers must translate it into the ID signals advertisers already use. At least, that’s the theory behind Permutive’s i...",
-      "link": "https://www.adexchanger.com/technology/can-sell-side-curation-solve-the-cookieless-audience-problem-for-advertisers/",
+      "title": "Performance CTV Is All The Rage, But The Mid-Funnel Still Matters",
+      "summary": "Jenny Wall is a veteran of the TV and CTV industry, but tends to specialize in what she calls “disruptive” companies.\nThe post Performance CTV Is All The Rage, But The Mid-Funnel Still Matters appeared first on AdExchang...",
+      "link": "https://www.adexchanger.com/ctv-roundup/performance-ctv-is-all-the-rage-but-the-mid-funnel-still-matters/",
       "source": "AdExchanger"
     },
     {
       "tag": "Estrategia Digital",
       "time": "Hoy",
-      "title": "Can adland realistically reduce its reliance on Google’s vertically integrated ad stack?",
-      "summary": "The court has ordered Google to open up its ad tech stack, but can interoperability alone can loosen its grip on the market.",
-      "link": "https://digiday.com/media-buying/can-adland-realistically-reduce-its-reliance-on-googles-vertically-integrated-ad-stack/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+      "title": "Some creators want to negotiate deals like TV networks",
+      "summary": "Creators have been brought onto traditional upfronts within the last year, but it's looking like they're ready for their own show.",
+      "link": "https://digiday.com/future-of-tv/some-creators-want-to-negotiate-deals-like-tv-networks/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
       "source": "Digiday"
     },
     {
       "tag": "Inteligencia Artificial",
       "time": "Hoy",
-      "title": "Meta’s AI agent has been blocked from using Amazon.com",
-      "summary": "Muse isn't welcome as a shopper anymore.",
-      "link": "https://techcrunch.com/2026/09/21/metas-ai-agent-has-been-blocked-from-using-amazon-com/",
+      "title": "Anthropic releases Opus 5.5 with lower prices and Fable-level performance",
+      "summary": "Anthropic called it \"the strongest-performing model we've tested to date.\"",
+      "link": "https://techcrunch.com/2026/09/22/anthropic-releases-opus-5-5-with-lower-prices-and-fable-level-performance/",
       "source": "TechCrunch AI"
     }
   ]
