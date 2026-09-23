@@ -1,28 +1,28 @@
 {
-  "updated_at": "22/09/2026 16:43",
+  "updated_at": "23/09/2026 16:38",
   "articles": [
     {
       "tag": "AdTech & Medios",
       "time": "Hoy",
-      "title": "Performance CTV Is All The Rage, But The Mid-Funnel Still Matters",
-      "summary": "Jenny Wall is a veteran of the TV and CTV industry, but tends to specialize in what she calls “disruptive” companies.\nThe post Performance CTV Is All The Rage, But The Mid-Funnel Still Matters appeared first on AdExchang...",
-      "link": "https://www.adexchanger.com/ctv-roundup/performance-ctv-is-all-the-rage-but-the-mid-funnel-still-matters/",
+      "title": "SQREEM Touts The Large Behavioral Model – Not The LLM – As The Winning Predictive Engine",
+      "summary": "Rather than relying on machine learning, SQREEM uses a mathematical AI model to track how systems change over time and predict audience behavior.\nThe post SQREEM Touts The Large Behavioral Model – Not The LLM – As The Wi...",
+      "link": "https://www.adexchanger.com/ai/sqreem-touts-the-large-behavioral-model-not-the-llm-as-the-winning-predictive-engine/",
       "source": "AdExchanger"
     },
     {
       "tag": "Estrategia Digital",
       "time": "Hoy",
-      "title": "Some creators want to negotiate deals like TV networks",
-      "summary": "Creators have been brought onto traditional upfronts within the last year, but it's looking like they're ready for their own show.",
-      "link": "https://digiday.com/future-of-tv/some-creators-want-to-negotiate-deals-like-tv-networks/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+      "title": "In Graphic Detail: LLMs keep citing YouTube in search results",
+      "summary": "The videos getting cited reveal how different AI search can be from traditional Google search.",
+      "link": "https://digiday.com/marketing/in-graphic-detail-llms-keep-citing-youtube-in-search-results/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
       "source": "Digiday"
     },
     {
       "tag": "Inteligencia Artificial",
       "time": "Hoy",
-      "title": "Anthropic releases Opus 5.5 with lower prices and Fable-level performance",
-      "summary": "Anthropic called it \"the strongest-performing model we've tested to date.\"",
-      "link": "https://techcrunch.com/2026/09/22/anthropic-releases-opus-5-5-with-lower-prices-and-fable-level-performance/",
+      "title": "YouTube Music gets more conversational with new AI features",
+      "summary": "Built directly into the YouTube Music app, Ask Music lets users describe what they want to hear in everyday language rather than searching for individual songs or artists.",
+      "link": "https://techcrunch.com/2026/09/23/youtube-music-gets-more-conversational-with-new-ai-features/",
       "source": "TechCrunch AI"
     }
   ]
