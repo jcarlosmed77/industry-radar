@@ -1,28 +1,28 @@
 {
-  "updated_at": "27/09/2026 16:47",
+  "updated_at": "28/09/2026 19:31",
   "articles": [
     {
       "tag": "AdTech & Medios",
       "time": "Hoy",
-      "title": "Why This Marketing Measurement Company Just Open-Sourced Its Forecasting Engine",
-      "summary": "Marketing measurement is really about answering two questions: What happened? And what should I do about it? Most marketing mix models are built to answer the first one, but the second is where things get harder and also...",
-      "link": "https://www.adexchanger.com/measurement/this-marketing-measurement-company-just-open-sourced-its-forecasting-engine/",
+      "title": "Who Will Stand Up For The Open Web?",
+      "summary": "The open web is done; stick a fork in it. Banner blindness is near universal, search traffic has run dry and publishers are struggling for oxygen. A consensus has emerged in recent years that the above statements are tru...",
+      "link": "https://www.adexchanger.com/display-2/who-will-stand-up-for-the-open-web/",
       "source": "AdExchanger"
     },
     {
       "tag": "Estrategia Digital",
       "time": "Hoy",
-      "title": "DMexco ’26 Briefing: From scaling AI operations to  teaching the next generation of ‘bold’ CMOs",
-      "summary": "DMexco 2026 media partner Digiday hosted two panels that outlined the challenge of AI at scale and the CMO of the future.",
-      "link": "https://digiday.com/marketing/dmexco-26-briefing-from-scaling-ai-operations-to-teaching-the-next-generation-of-bold-cmos/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+      "title": "Digiday Publishing Summit September 2026 Recap: How publishers are rebuilding for the post-search era",
+      "summary": "Execs at DPS described how they’re preparing for a post-search era by prioritizing direct audiences, diversified revenue and AI strategies.",
+      "link": "https://digiday.com/media/digiday-publishing-summit-september-2026-recap-how-publishers-are-rebuilding-for-the-post-search-era/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
       "source": "Digiday"
     },
     {
       "tag": "Inteligencia Artificial",
       "time": "Hoy",
-      "title": "Anthropic’s Dario Amodei gets the SNL treatment",
-      "summary": "\"AI is the devil and I its maker.\"",
-      "link": "https://techcrunch.com/2026/09/27/anthropics-dario-amodei-gets-the-snl-treatment/",
+      "title": "Nvidia launches new platform for reining in rogue AI agents",
+      "summary": "As the debate rages over whether the recent spate of rogue AI agents is a step toward AGI or a more conventional engineering problem, Nvidia is offering its own answer to problem. Nvidia CEO Jensen Huang on Monday introd...",
+      "link": "https://techcrunch.com/2026/09/28/nvidia-launches-new-platform-for-reining-in-rogue-ai-agents/",
       "source": "TechCrunch AI"
     }
   ]
