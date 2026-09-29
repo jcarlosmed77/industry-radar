@@ -1,28 +1,28 @@
 {
-  "updated_at": "28/09/2026 19:31",
+  "updated_at": "29/09/2026 17:58",
   "articles": [
     {
       "tag": "AdTech & Medios",
       "time": "Hoy",
-      "title": "Who Will Stand Up For The Open Web?",
-      "summary": "The open web is done; stick a fork in it. Banner blindness is near universal, search traffic has run dry and publishers are struggling for oxygen. A consensus has emerged in recent years that the above statements are tru...",
-      "link": "https://www.adexchanger.com/display-2/who-will-stand-up-for-the-open-web/",
+      "title": "Amazon Ads And The Amazon DSP Get An Agentic Rebrand",
+      "summary": "Amazon Ads has overhauled its DSP and the sponsored product and search-based ad console for on-platform ads, the company announced at its unBoxed event in San Francisco on Tuesday. As one part of that overhaul, the produ...",
+      "link": "https://www.adexchanger.com/content-studio/amazon-ads-and-the-amazon-dsp-get-an-agentic-rebrand/",
       "source": "AdExchanger"
     },
     {
       "tag": "Estrategia Digital",
       "time": "Hoy",
-      "title": "Digiday Publishing Summit September 2026 Recap: How publishers are rebuilding for the post-search era",
-      "summary": "Execs at DPS described how they’re preparing for a post-search era by prioritizing direct audiences, diversified revenue and AI strategies.",
-      "link": "https://digiday.com/media/digiday-publishing-summit-september-2026-recap-how-publishers-are-rebuilding-for-the-post-search-era/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+      "title": "Mobile ad giants AppLovin and Unity locked in legal dispute over data collection",
+      "summary": "AppLovin seeks court order against Unity claiming improper collection of data generated through its business.",
+      "link": "https://digiday.com/marketing/mobile-ad-giants-applovin-and-unity-locked-in-legal-dispute-over-data-collection/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
       "source": "Digiday"
     },
     {
       "tag": "Inteligencia Artificial",
       "time": "Hoy",
-      "title": "Nvidia launches new platform for reining in rogue AI agents",
-      "summary": "As the debate rages over whether the recent spate of rogue AI agents is a step toward AGI or a more conventional engineering problem, Nvidia is offering its own answer to problem. Nvidia CEO Jensen Huang on Monday introd...",
-      "link": "https://techcrunch.com/2026/09/28/nvidia-launches-new-platform-for-reining-in-rogue-ai-agents/",
+      "title": "OpenAI takes on Microsoft with the launch of what feels a whole lot like ChatGPT’s own office suite",
+      "summary": "OpenAI's newly announced suite of office features puts it into mor direct competition with more traditional software companies.",
+      "link": "https://techcrunch.com/2026/09/29/openai-takes-on-microsoft-with-the-launch-of-what-feels-a-whole-lot-like-chatgpts-own-office-suite/",
       "source": "TechCrunch AI"
     }
   ]
