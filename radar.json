@@ -1,28 +1,28 @@
 {
-  "updated_at": "29/09/2026 17:58",
+  "updated_at": "30/09/2026 17:53",
   "articles": [
     {
       "tag": "AdTech & Medios",
       "time": "Hoy",
-      "title": "Amazon Ads And The Amazon DSP Get An Agentic Rebrand",
-      "summary": "Amazon Ads has overhauled its DSP and the sponsored product and search-based ad console for on-platform ads, the company announced at its unBoxed event in San Francisco on Tuesday. As one part of that overhaul, the produ...",
-      "link": "https://www.adexchanger.com/content-studio/amazon-ads-and-the-amazon-dsp-get-an-agentic-rebrand/",
+      "title": "Reaching The World’s Next 7 Billion Consumers Takes More Than Just Ad Tech",
+      "summary": " The US combined with Europe’s five largest ad markets are home to roughly 8% of the world’s consumers. Together, they account for nearly half of global ad spend. It makes sense, then, that most advertising platforms wer...",
+      "link": "https://www.adexchanger.com/content-studio/reaching-the-worlds-next-7-billion-consumers-takes-more-than-just-ad-tech/",
       "source": "AdExchanger"
     },
     {
       "tag": "Estrategia Digital",
       "time": "Hoy",
-      "title": "Mobile ad giants AppLovin and Unity locked in legal dispute over data collection",
-      "summary": "AppLovin seeks court order against Unity claiming improper collection of data generated through its business.",
-      "link": "https://digiday.com/marketing/mobile-ad-giants-applovin-and-unity-locked-in-legal-dispute-over-data-collection/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+      "title": "Future of TV Briefing: TV ad industry’s measurement currency frustrations hit (another) boiling point",
+      "summary": "This week’s Future of TV Briefing looks at a new task force being formed by the Coalition for Innovative Media Measurement to tackle the TV ad industry’s measurement currency conundrum.",
+      "link": "https://digiday.com/future-of-tv/future-of-tv-briefing-tv-ad-industrys-measurement-currency-frustrations-hit-another-boiling-point/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
       "source": "Digiday"
     },
     {
       "tag": "Inteligencia Artificial",
       "time": "Hoy",
-      "title": "OpenAI takes on Microsoft with the launch of what feels a whole lot like ChatGPT’s own office suite",
-      "summary": "OpenAI's newly announced suite of office features puts it into mor direct competition with more traditional software companies.",
-      "link": "https://techcrunch.com/2026/09/29/openai-takes-on-microsoft-with-the-launch-of-what-feels-a-whole-lot-like-chatgpts-own-office-suite/",
+      "title": "The ugly economics of consumer AI",
+      "summary": "There’s a reason frontier labs have gotten gunshy about consumer AI — and it’s not because the tech isn’t good enough.",
+      "link": "https://techcrunch.com/2026/09/30/the-ugly-economics-of-consumer-ai/",
       "source": "TechCrunch AI"
     }
   ]
