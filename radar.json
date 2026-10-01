@@ -1,28 +1,28 @@
 {
-  "updated_at": "30/09/2026 17:53",
+  "updated_at": "01/10/2026 18:19",
   "articles": [
     {
       "tag": "AdTech & Medios",
       "time": "Hoy",
-      "title": "Reaching The World’s Next 7 Billion Consumers Takes More Than Just Ad Tech",
-      "summary": " The US combined with Europe’s five largest ad markets are home to roughly 8% of the world’s consumers. Together, they account for nearly half of global ad spend. It makes sense, then, that most advertising platforms wer...",
-      "link": "https://www.adexchanger.com/content-studio/reaching-the-worlds-next-7-billion-consumers-takes-more-than-just-ad-tech/",
+      "title": "Why Agencies Think They Shouldn’t Own Agentic AI Tools Or The Data Used To Build Them",
+      "summary": "For years, ad agency holdcos have been competing to build the best data and tech stacks. Fast-forward to today, and agencies are looking to differentiate their tech stacks by building custom agentic AI tools for their br...",
+      "link": "https://www.adexchanger.com/agencies/why-agencies-think-they-shouldnt-own-agentic-ai-tools-or-the-data-used-to-build-them/",
       "source": "AdExchanger"
     },
     {
       "tag": "Estrategia Digital",
       "time": "Hoy",
-      "title": "Future of TV Briefing: TV ad industry’s measurement currency frustrations hit (another) boiling point",
-      "summary": "This week’s Future of TV Briefing looks at a new task force being formed by the Coalition for Innovative Media Measurement to tackle the TV ad industry’s measurement currency conundrum.",
-      "link": "https://digiday.com/future-of-tv/future-of-tv-briefing-tv-ad-industrys-measurement-currency-frustrations-hit-another-boiling-point/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+      "title": "How AI is changing the value of media",
+      "summary": "Bharat Sharma, co-founder and COO, Affinity Global AI is no longer a novelty in media planning. Everyone knows about it, and most organizations are already using it in some form. What’s more interesting is what AI is beg...",
+      "link": "https://digiday.com/sponsored/how-ai-is-changing-the-value-of-media/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
       "source": "Digiday"
     },
     {
       "tag": "Inteligencia Artificial",
       "time": "Hoy",
-      "title": "The ugly economics of consumer AI",
-      "summary": "There’s a reason frontier labs have gotten gunshy about consumer AI — and it’s not because the tech isn’t good enough.",
-      "link": "https://techcrunch.com/2026/09/30/the-ugly-economics-of-consumer-ai/",
+      "title": "OpenAI cuts ties with three safety researchers, WSJ reports",
+      "summary": "OpenAI has parted ways with three safety researchers after an internal investigation found they mishandled sensitive company information, report says.",
+      "link": "https://techcrunch.com/2026/10/01/openai-cuts-ties-with-three-safety-researchers-wsj-reports/",
       "source": "TechCrunch AI"
     }
   ]
