@@ -1,28 +1,28 @@
 {
-  "updated_at": "04/10/2026 16:45",
+  "updated_at": "05/10/2026 20:38",
   "articles": [
     {
       "tag": "AdTech & Medios",
       "time": "Hoy",
-      "title": "Apple Has Far-Reaching Plans To Block Hundreds Of Programmatic Data Companies From iOS",
-      "summary": "Oh, what a tangled WebKit we weave. Earlier this week, AdExchanger reported that Apple’s iOS 27 update from two weeks ago quietly blocked a handful of programmatic data players – including The Trade Desk and its Unified ...",
-      "link": "https://www.adexchanger.com/privacy/apple-has-far-reaching-plans-to-block-hundreds-of-programmatic-data-companies-from-ios/",
+      "title": "Google And The DOJ Filed Their Proposed Final Judgments In The Ad Tech Case – Here’s What They’re Still Arguing About",
+      "summary": "On Friday night at 10:15 p.m., Google and the Department of Justice filed the next round of paperwork that will determine what Google&#8217;s punishment will look like in the ad tech antitrust case – the latest move in a...",
+      "link": "https://www.adexchanger.com/publishers/google-and-the-doj-filed-their-proposed-final-judgments-in-the-ad-tech-case-heres-what-theyre-still-arguing-about/",
       "source": "AdExchanger"
     },
     {
       "tag": "Estrategia Digital",
       "time": "Hoy",
-      "title": "How TikTok is helping app advertisers rethink attribution",
-      "summary": "For app marketers, performance measurement often comes with a familiar challenge: the numbers do not always match. Partner insights from TikTok.",
-      "link": "https://digiday.com/sponsored/how-tiktok-is-helping-app-advertisers-rethink-attribution/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+      "title": "Brian Monahan exits Albertsons Media Collective amid leadership shake-up",
+      "summary": "Former Dentsu executive Brian Monahan exits Albertsons Media Collective as retail media shifts under CMO Emily Turner.",
+      "link": "https://digiday.com/marketing/brian-monahan-exits-albertsons-media-collective-amid-leadership-shake-up/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
       "source": "Digiday"
     },
     {
       "tag": "Inteligencia Artificial",
       "time": "Hoy",
-      "title": "Trump unveils his new Super Intelligence Force",
-      "summary": "This new task force is Trump's latest response to the debate over AI safety.",
-      "link": "https://techcrunch.com/2026/10/04/trump-unveils-his-new-super-intelligence-force/",
+      "title": "OpenAI will start watermarking ChatGPT’s text in the EU",
+      "summary": "OpenAI will watermark ChatGPT and Codex text in the EU to comply with the AI Act. Editing can make the invisible marks harder to detect, it says.",
+      "link": "https://techcrunch.com/2026/10/05/openai-will-start-watermarking-chatgpts-text-in-the-eu/",
       "source": "TechCrunch AI"
     }
   ]
