@@ -1,28 +1,28 @@
 {
-  "updated_at": "05/10/2026 20:38",
+  "updated_at": "06/10/2026 18:12",
   "articles": [
     {
       "tag": "AdTech & Medios",
       "time": "Hoy",
-      "title": "Google And The DOJ Filed Their Proposed Final Judgments In The Ad Tech Case – Here’s What They’re Still Arguing About",
-      "summary": "On Friday night at 10:15 p.m., Google and the Department of Justice filed the next round of paperwork that will determine what Google&#8217;s punishment will look like in the ad tech antitrust case – the latest move in a...",
-      "link": "https://www.adexchanger.com/publishers/google-and-the-doj-filed-their-proposed-final-judgments-in-the-ad-tech-case-heres-what-theyre-still-arguing-about/",
+      "title": "PubX Raises $5 Million And Buys Digital Governance Startup Compliant",
+      "summary": "Andrew Mole, the CEO and co-founder of UK-based agentic AI ad startup pubX, has a theory about why agentic ad tech has a tendency to hallucinate. In his view, it’s not the LLM’s fault. Hallucinations happen when a large ...",
+      "link": "https://www.adexchanger.com/ai/pubx-raises-5-million-and-buys-digital-governance-startup-compliant/",
       "source": "AdExchanger"
     },
     {
       "tag": "Estrategia Digital",
       "time": "Hoy",
-      "title": "Brian Monahan exits Albertsons Media Collective amid leadership shake-up",
-      "summary": "Former Dentsu executive Brian Monahan exits Albertsons Media Collective as retail media shifts under CMO Emily Turner.",
-      "link": "https://digiday.com/marketing/brian-monahan-exits-albertsons-media-collective-amid-leadership-shake-up/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+      "title": "How consumer healthcare brands are adapting FMCG media strategies",
+      "summary": "Companies like Opella are borrowing from the consumer brand playbook as they pivot around shifting health habits. Can they adapt FMCG marketing without also importing the issues facing that category?",
+      "link": "https://digiday.com/media-buying/how-consumer-healthcare-brands-are-adapting-fmcg-media-strategies/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
       "source": "Digiday"
     },
     {
       "tag": "Inteligencia Artificial",
       "time": "Hoy",
-      "title": "OpenAI will start watermarking ChatGPT’s text in the EU",
-      "summary": "OpenAI will watermark ChatGPT and Codex text in the EU to comply with the AI Act. Editing can make the invisible marks harder to detect, it says.",
-      "link": "https://techcrunch.com/2026/10/05/openai-will-start-watermarking-chatgpts-text-in-the-eu/",
+      "title": "Mirror Particle is building a ‘world model’ of human behavior",
+      "summary": "Mirror Particle will launch at TechCrunch Disrupt's Startup Battlefield 200 with a world model built from scratch to predict human behavior, arguing that LLM role-play falls short for market research and brand strategy.",
+      "link": "https://techcrunch.com/2026/10/06/mirror-particle-is-building-a-world-model-of-human-behavior/",
       "source": "TechCrunch AI"
     }
   ]
