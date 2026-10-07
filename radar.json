@@ -1,28 +1,28 @@
 {
-  "updated_at": "06/10/2026 18:12",
+  "updated_at": "07/10/2026 18:45",
   "articles": [
     {
       "tag": "AdTech & Medios",
       "time": "Hoy",
-      "title": "PubX Raises $5 Million And Buys Digital Governance Startup Compliant",
-      "summary": "Andrew Mole, the CEO and co-founder of UK-based agentic AI ad startup pubX, has a theory about why agentic ad tech has a tendency to hallucinate. In his view, it’s not the LLM’s fault. Hallucinations happen when a large ...",
-      "link": "https://www.adexchanger.com/ai/pubx-raises-5-million-and-buys-digital-governance-startup-compliant/",
+      "title": "Agencies Need A New Job Description, Not Just New Titles",
+      "summary": "Everyone at McKinsey is nervous, and agencies should be, too. Because the generalist pitch (“We&#8217;ve seen a bit of everything and here&#8217;s a deck about it”) is up against AI models that have read everything and d...",
+      "link": "https://www.adexchanger.com/agencies/agencies-need-a-new-job-description-not-just-new-titles/",
       "source": "AdExchanger"
     },
     {
       "tag": "Estrategia Digital",
       "time": "Hoy",
-      "title": "How consumer healthcare brands are adapting FMCG media strategies",
-      "summary": "Companies like Opella are borrowing from the consumer brand playbook as they pivot around shifting health habits. Can they adapt FMCG marketing without also importing the issues facing that category?",
-      "link": "https://digiday.com/media-buying/how-consumer-healthcare-brands-are-adapting-fmcg-media-strategies/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+      "title": "‘Defensible to the CFO’: Prime Day catalyzes Amazon video and DSP spend growth",
+      "summary": "Advertisers are wary of discounting away their profit margins, but find it hard to argue against increasing ad spend with e-commerce titan.",
+      "link": "https://digiday.com/media-buying/defensible-to-the-cfo-prime-day-catalyzes-amazon-video-and-dsp-spend-growth/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
       "source": "Digiday"
     },
     {
       "tag": "Inteligencia Artificial",
       "time": "Hoy",
-      "title": "Mirror Particle is building a ‘world model’ of human behavior",
-      "summary": "Mirror Particle will launch at TechCrunch Disrupt's Startup Battlefield 200 with a world model built from scratch to predict human behavior, arguing that LLM role-play falls short for market research and brand strategy.",
-      "link": "https://techcrunch.com/2026/10/06/mirror-particle-is-building-a-world-model-of-human-behavior/",
+      "title": "Meta’s Muse launches on iPad just a month after its mobile debut",
+      "summary": "Meta’s AI agent Muse is now available on iPad, just a month after its mobile debut, as the company rapidly expands the assistant’s reach and integrations.",
+      "link": "https://techcrunch.com/2026/10/07/metas-muse-launches-on-ipad-just-a-month-after-its-mobile-debut/",
       "source": "TechCrunch AI"
     }
   ]
