@@ -1,28 +1,28 @@
 {
-  "updated_at": "11/10/2026 17:36",
+  "updated_at": "12/10/2026 21:09",
   "articles": [
     {
       "tag": "AdTech & Medios",
       "time": "Hoy",
-      "title": "The Apple Bites Back",
-      "summary": "Apple has a new block list for data brokers and ad tech vendors that do cross-site user tracking – which could expand to include a much broader slate of ad tech and martech vendors across the entire ecosystem. Plus: a fe...",
-      "link": "https://www.adexchanger.com/the-big-story/the-apple-bites-back/",
+      "title": "TV Budgets Are Following The Wrong Scorecard",
+      "summary": "The last decade saw television audiences steadily shift from linear toward streaming. The fact that advertising budgets followed isn’t too surprising. If more people are watching streaming, more TV advertising dollars sh...",
+      "link": "https://www.adexchanger.com/content-studio/tv-budgets-are-following-the-wrong-scorecard/",
       "source": "AdExchanger"
     },
     {
       "tag": "Estrategia Digital",
       "time": "Hoy",
-      "title": "‘Mission and capital can coexist’: Golden State Valkyries’ Jess Smith on pitch to sponsors",
-      "summary": "The WNBA’s newest team must navigate measurement demands and marketers wanting to share in the ‘mission’ if it’s to establish a commercial foothold.",
-      "link": "https://digiday.com/marketing/mission-and-capital-can-coexist-golden-state-valkyries-jess-smith-on-pitch-to-sponsors/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+      "title": "Ad industry tallies early losses from Apple’s Safari tracking block",
+      "summary": "A week after Apple’s Safari block, the ad industry is still waiting for the other shoe to drop.",
+      "link": "https://digiday.com/media/ad-industry-tallies-early-losses-from-apples-safari-tracking-block/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
       "source": "Digiday"
     },
     {
       "tag": "Inteligencia Artificial",
       "time": "Hoy",
-      "title": "Can the AI industry persuade data center opponents by getting rid of NDAs?",
-      "summary": "On Equity, we debate the impact of data center moratoriums and whether the AI industry has a communication problem.",
-      "link": "https://techcrunch.com/2026/10/11/can-the-ai-industry-persuade-data-center-opponents-by-getting-rid-of-ndas/",
+      "title": "Meta releases its first frontier model, Muse Wonder",
+      "summary": "Where Muse Spark aimed to be a lightweight model that could perform at low latency, the Wonder models are larger and said to be more capable, with higher benchmark scores and better results on complex tasks like coding.",
+      "link": "https://techcrunch.com/2026/10/12/meta-releases-its-first-frontier-model-muse-wonder/",
       "source": "TechCrunch AI"
     }
   ]
