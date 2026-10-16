@@ -1,28 +1,28 @@
 {
-  "updated_at": "15/10/2026 16:44",
+  "updated_at": "16/10/2026 16:27",
   "articles": [
     {
       "tag": "AdTech & Medios",
       "time": "Hoy",
-      "title": "Meta Is Selling Ad Slots, TV-Style",
-      "summary": "Prime time is coming to the feed. On Thursday, Meta announced a new feature, called Ads Super Burst, that lets advertisers lock in a window of between three and 24 hours on a single day across Facebook and Instagram, suc...",
-      "link": "https://www.adexchanger.com/platforms/meta-is-selling-ad-slots-tv-style/",
+      "title": "Better Advertising On CTV Starts With Better Signals",
+      "summary": "Everywhere you look, our industry is talking about AI: AI-powered planning, AI-driven optimization, agentic media buying, automated curation. The promise of greater efficiency, better performance and smarter decision-mak...",
+      "link": "https://www.adexchanger.com/content-studio/better-advertising-on-ctv-starts-with-better-signals/",
       "source": "AdExchanger"
     },
     {
       "tag": "Estrategia Digital",
       "time": "Hoy",
-      "title": "Brands turn to content series and Jimi Hendrix to improve AI search performance",
-      "summary": "Guitar brand Fender and amp-maker Marshall both recently launched content series aimed, in part, at improving their visibility in AI search answers. It’s part of a greater pattern.",
-      "link": "https://digiday.com/marketing/brands-turn-to-content-series-and-jimi-hendrix-to-improve-ai-search-performance/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+      "title": "Ruggable’s new ad spend strategy shifts focus to ShopMy creators",
+      "summary": "Ruggable is shaking up its marketing stack, pulling dollars our of Meta and into ShopMy creators ahead of a potential IPO.",
+      "link": "https://digiday.com/marketing/ruggables-new-ad-spend-strategy-shifts-focus-to-shopmy-creators/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
       "source": "Digiday"
     },
     {
       "tag": "Inteligencia Artificial",
       "time": "Hoy",
-      "title": "AI agents are coming to Rivian’s cars",
-      "summary": "We'll likely learn more about how this will work at the company's upcoming \"AI &#038; Autonomy Day\" event in December.",
-      "link": "https://techcrunch.com/2026/10/15/ai-agents-are-coming-to-rivians-cars/",
+      "title": "Elorian’s first AI model wants to reason with images, not just about them",
+      "summary": "according to Elorian's evaluations, Glimpse outperforms even GPT-6 Astra on scientific chart reasoning and short-form video captioning, with competitive results on other visual reasoning tasks.",
+      "link": "https://techcrunch.com/2026/10/16/elorians-first-ai-model-wants-to-reason-with-images-not-just-about-them/",
       "source": "TechCrunch AI"
     }
   ]
