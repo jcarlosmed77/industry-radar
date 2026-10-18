@@ -1,5 +1,5 @@
 {
-  "updated_at": "17/10/2026 15:21",
+  "updated_at": "18/10/2026 15:43",
   "articles": [
     {
       "tag": "AdTech & Medios",
@@ -20,9 +20,9 @@
     {
       "tag": "Inteligencia Artificial",
       "time": "Hoy",
-      "title": "Replit is no longer working with Anthropic, CEO says",
-      "summary": "Masad said the decision was made for a number of different reasons, including cost. Replit announced a partnership with OpenAI in August, but there was never any indication that it was no longer with Anthropic.",
-      "link": "https://techcrunch.com/2026/10/16/replit-is-no-longer-working-with-anthropic-ceo-says/",
+      "title": "Meta removes language that raised scraping and AI training concerns",
+      "summary": "A Meta spokesperson insisted that the updated terms did not reflect a change in the way Meta crawls the web.",
+      "link": "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/",
       "source": "TechCrunch AI"
     }
   ]
