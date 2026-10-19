@@ -1,28 +1,28 @@
 {
-  "updated_at": "18/10/2026 15:43",
+  "updated_at": "19/10/2026 18:37",
   "articles": [
     {
       "tag": "AdTech & Medios",
       "time": "Hoy",
-      "title": "Better Advertising On CTV Starts With Better Signals",
-      "summary": "Everywhere you look, our industry is talking about AI: AI-powered planning, AI-driven optimization, agentic media buying, automated curation. The promise of greater efficiency, better performance and smarter decision-mak...",
-      "link": "https://www.adexchanger.com/content-studio/better-advertising-on-ctv-starts-with-better-signals/",
+      "title": "How Australian Home Lender Lendi Measures The Invisible Work Of AI",
+      "summary": "Most brands and businesses are trying to figure out how to improve their metrics when it comes to AI – and also what those metrics even are. Problem is, measuring how chatbots shape brand discovery is mostly still a myst...",
+      "link": "https://www.adexchanger.com/measurement/how-australian-home-lender-lendi-measures-the-invisible-work-of-ai/",
       "source": "AdExchanger"
     },
     {
       "tag": "Estrategia Digital",
       "time": "Hoy",
-      "title": "Ruggable’s new ad spend strategy shifts focus to ShopMy creators",
-      "summary": "Ruggable is shaking up its marketing stack, pulling dollars our of Meta and into ShopMy creators ahead of a potential IPO.",
-      "link": "https://digiday.com/marketing/ruggables-new-ad-spend-strategy-shifts-focus-to-shopmy-creators/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+      "title": "How Amazon turned its Thursday Night Football into a two-pronged pitch to capture ad dollars",
+      "summary": "TNF’s the jewel in Amazon’s Prime Video sports portfolio, and a lever for endemic and non-endemic media budgets.",
+      "link": "https://digiday.com/media-buying/how-amazon-turned-its-thursday-night-football-into-a-two-pronged-pitch-to-capture-ad-dollars/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
       "source": "Digiday"
     },
     {
       "tag": "Inteligencia Artificial",
       "time": "Hoy",
-      "title": "Meta removes language that raised scraping and AI training concerns",
-      "summary": "A Meta spokesperson insisted that the updated terms did not reflect a change in the way Meta crawls the web.",
-      "link": "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/",
+      "title": "People are using AI to make their smart TVs dumb again",
+      "summary": "Fed up with ads, tracking and sluggish interfaces, some smart TV owners are turning to AI agents to strip away bloatware and take back control of their TVs.",
+      "link": "https://techcrunch.com/2026/10/19/people-are-using-ai-to-make-their-smart-tvs-dumb-again/",
       "source": "TechCrunch AI"
     }
   ]
