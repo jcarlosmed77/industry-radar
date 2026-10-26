@@ -1,28 +1,28 @@
 {
-  "updated_at": "25/10/2026 15:55",
+  "updated_at": "26/10/2026 18:34",
   "articles": [
     {
       "tag": "AdTech & Medios",
       "time": "Hoy",
-      "title": "Identity Resolution Goes The Way Of The Cookie",
-      "summary": "Safari is tracking the trackers. Apple officially blocked identity resolution providers this week. Our guest, Zach Edwards, a cybersecurity researcher and the co-founder of DecryptAds, puts the decision into context. Plu...",
-      "link": "https://www.adexchanger.com/the-big-story/identity-resolution-goes-the-way-of-the-cookie/",
+      "title": "Stagwell Acquires Publisher Monetization Network Freestar",
+      "summary": "Agency holding company Stagwell is acquiring publisher monetization network Freestar, it announced Monday. The deal is the latest sign that media buyers are moving closer to publishers to shorten supply paths and get at ...",
+      "link": "https://www.adexchanger.com/agencies/stagwell-acquires-publisher-monetization-network-freestar/",
       "source": "AdExchanger"
     },
     {
       "tag": "Estrategia Digital",
       "time": "Hoy",
-      "title": "Creators say it’s difficult to make money from news — with platform rules and brand guidelines",
-      "summary": "With more people getting news from creators than traditional media, those creators are still trying to build sustainable businesses.",
-      "link": "https://digiday.com/media/creators-say-its-difficult-to-make-money-from-news-with-platform-rules-and-brand-guidelines/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+      "title": "Stagwell buys Freestar, putting publisher ad sales inside a holdco",
+      "summary": "Publishers have long wished agencies would put their money where their panel talking points are. Stagwell has done something adjacent.",
+      "link": "https://digiday.com/media-buying/stagwell-buys-freestar-putting-publisher-ad-sales-inside-a-holdco/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
       "source": "Digiday"
     },
     {
       "tag": "Inteligencia Artificial",
       "time": "Hoy",
-      "title": "The hottest AI wearables and gadgets you should know about",
-      "summary": "We compiled a list of all the hottest AI wearables, including Muse Charm, Bee, Friend, Plaud, and more.",
-      "link": "https://techcrunch.com/2026/10/25/the-hottest-ai-wearables-and-gadgets-you-should-know-about/",
+      "title": "Anthropic’s IPO filing reveals its strategy for keeping enterprise customers hooked",
+      "summary": "Anthropic’s S-1 shows more than half of its $100,000-plus customers now use both the Claude Platform and a first-party app, a cross-selling playbook reminiscent of Amazon that’s making enterprise customers stickier.",
+      "link": "https://techcrunch.com/2026/10/26/anthropics-ipo-filing-reveals-its-strategy-for-keeping-enterprise-customers-hooked/",
       "source": "TechCrunch AI"
     }
   ]
