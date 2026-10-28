@@ -1,28 +1,28 @@
 {
-  "updated_at": "27/10/2026 17:50",
+  "updated_at": "28/10/2026 18:14",
   "articles": [
     {
       "tag": "AdTech & Medios",
       "time": "Hoy",
-      "title": "Beehiiv Brings Dynamically Inserted Podcast Ads To Its Publisher Platform",
-      "summary": "Content discovery has moved away from the channels controlled by publishers and their audiences. People just don’t go to websites like they used to, which has some media industry insiders declaring that the pageview era ...",
-      "link": "https://www.adexchanger.com/audio/beehiiv-brings-dynamically-inserted-podcast-ads-to-its-publisher-platform/",
+      "title": "Meta Has A New Ad Ranking System Built On LLMs, Plus Upgrades To Andromeda And GEM",
+      "summary": "Meta now scores every eligible ad for every impression at more than a billion ads per second, one of three ad ranking upgrades Meta announced on Wednesday. The others are an update to GEM, the ads recommendation model it...",
+      "link": "https://www.adexchanger.com/ai/meta-has-a-new-ad-ranking-system-built-on-llms-plus-upgrades-to-andromeda-and-gem/",
       "source": "AdExchanger"
     },
     {
       "tag": "Estrategia Digital",
       "time": "Hoy",
-      "title": "Adidas and Gamefam, Poppi and Walmart Connect are winners for the 2026 Digiday Awards",
-      "summary": "The 2026 Digiday Awards winners reflect a media and marketing landscape in which cultural relevance, audience participation and measurable business impact increasingly go hand in hand. From immersive digital experiences ...",
-      "link": "https://digiday.com/announcement/awards/adidas-and-gamefam-poppi-and-walmart-connect-are-winners-for-the-2026-digiday-awards/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+      "title": "Apple’s Safari crackdown pushes ad tech toward server-side solutions, but doubts remain",
+      "summary": "Parties rally behind IAB Tech Lab’s Trusted Server Framework following Apple’s latest tracking restrictions, although questions remain.",
+      "link": "https://digiday.com/media-buying/apples-safari-crackdown-pushes-ad-tech-toward-server-side-solutions-but-doubts-remain/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
       "source": "Digiday"
     },
     {
       "tag": "Inteligencia Artificial",
       "time": "Hoy",
-      "title": "Frontier AI labs say their models refuted the Exponential Time Hypothesis. What does that mean?",
-      "summary": "TechCrunch spoke to the MIT computer scientist charged with explaining OpenAI's latest mind-bending discovery",
-      "link": "https://techcrunch.com/2026/10/27/frontier-ai-labs-say-their-models-refuted-the-exponential-time-hypothesis-what-does-that-mean/",
+      "title": "As AI agents reshape the web, Google opens Gemini and Search to more apps",
+      "summary": "A new developer platform will let businesses bring their services to Google's AI experiences, potentially changing how consumers discover and use apps.",
+      "link": "https://techcrunch.com/2026/10/28/as-ai-agents-reshape-the-web-google-opens-gemini-and-search-to-more-apps/",
       "source": "TechCrunch AI"
     }
   ]
