@@ -1,5 +1,5 @@
 {
-  "updated_at": "30/10/2026 17:55",
+  "updated_at": "31/10/2026 17:07",
   "articles": [
     {
       "tag": "AdTech & Medios",
@@ -20,9 +20,9 @@
     {
       "tag": "Inteligencia Artificial",
       "time": "Hoy",
-      "title": "Zest’s new AI agent finds restaurants and books reservations over text",
-      "summary": "Can't agree on where to eat? Zest's AI concierge can combine everyone's tastes, put restaurant options to a vote, and make the reservation.",
-      "link": "https://techcrunch.com/2026/10/30/zests-new-ai-agent-finds-restaurants-and-books-reservations-over-text/",
+      "title": "OpenAI reportedly lowers funding target for new round",
+      "summary": "OpenAI’s latest funding round doesn't seem to be living up to expectations.",
+      "link": "https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/",
       "source": "TechCrunch AI"
     }
   ]
