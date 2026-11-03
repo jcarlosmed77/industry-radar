@@ -1,28 +1,28 @@
 {
-  "updated_at": "02/11/2026 21:37",
+  "updated_at": "03/11/2026 19:21",
   "articles": [
     {
       "tag": "AdTech & Medios",
       "time": "Hoy",
-      "title": "Affle Acquires Perion For $420 Million, Because ‘Synergies’",
-      "summary": "If you ask the executive leadership of Affle and Perion why the two companies are merging, the answer you’ll get is “synergies.” Tal Jacobson, Perion’s CEO, is well aware that the term has become a total cliche. “Every t...",
-      "link": "https://www.adexchanger.com/platforms/affle-acquires-perion-for-420-million-because-synergies/",
+      "title": "With Search Traffic Down 70%, People Inc. Bets On Revenue Beyond Site Visits",
+      "summary": "People Inc. isn’t mincing words about the current state of digital publishing: It’s bad. The company has seen a “critical loss of sessions,” Barry Diller, People Inc.’s chairman and senior executive, told investors durin...",
+      "link": "https://www.adexchanger.com/publishers/with-search-traffic-down-70-people-inc-bets-on-revenue-beyond-site-visits/",
       "source": "AdExchanger"
     },
     {
       "tag": "Estrategia Digital",
       "time": "Hoy",
-      "title": "People Inc. is building custom APIs to make its journalism easier for AI agents to use",
-      "summary": "People Inc. is moving toward custom APIs for AI systems, Forbes has adopted Markdown for agents, while the FT, Daily Mail are considering how agents could reach content for subscribers.",
-      "link": "https://digiday.com/media/people-inc-is-building-custom-apis-to-make-its-journalism-easier-for-ai-agents-to-use/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+      "title": "Ad Tech Briefing: Google’s AI-reckoning",
+      "summary": "Google's Q3 earnings reveal AI Mode’s impact on search advertising growth, plus ongoing diminishing returns from ad tech.",
+      "link": "https://digiday.com/media-buying/ad-tech-briefing-googles-ai-reckoning/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
       "source": "Digiday"
     },
     {
       "tag": "Inteligencia Artificial",
       "time": "Hoy",
-      "title": "Web host Squarespace lays off 19% of its employees",
-      "summary": "The website builder said that the job losses are part of a broader restructuring of its organization.",
-      "link": "https://techcrunch.com/2026/11/02/web-host-squarespace-lays-off-19-of-its-employees/",
+      "title": "Netflix’s new AI Discover tab helps you find something to watch based on your mood",
+      "summary": "The first experimental feature under the tab will allow users to get recommendations based on what they're currently in the mood for.",
+      "link": "https://techcrunch.com/2026/11/03/netflixs-new-ai-discover-tab-helps-you-find-something-to-watch-based-on-your-mood/",
       "source": "TechCrunch AI"
     }
   ]
