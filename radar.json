@@ -1,28 +1,28 @@
 {
-  "updated_at": "03/11/2026 19:21",
+  "updated_at": "04/11/2026 19:38",
   "articles": [
     {
       "tag": "AdTech & Medios",
       "time": "Hoy",
-      "title": "With Search Traffic Down 70%, People Inc. Bets On Revenue Beyond Site Visits",
-      "summary": "People Inc. isn’t mincing words about the current state of digital publishing: It’s bad. The company has seen a “critical loss of sessions,” Barry Diller, People Inc.’s chairman and senior executive, told investors durin...",
-      "link": "https://www.adexchanger.com/publishers/with-search-traffic-down-70-people-inc-bets-on-revenue-beyond-site-visits/",
+      "title": "Intent Data Is A Gift, With Edible Brands",
+      "summary": "Edible Arrangements sells 350 SKUs on its website year-round. But for Valentine’s Day and on Mother’s Day, only around 10% of them are available to buy. That might sound like a counterintuitive move for a retailer on its...",
+      "link": "https://www.adexchanger.com/adexchanger-talks/intent-data-is-a-gift-with-edible-brands/",
       "source": "AdExchanger"
     },
     {
       "tag": "Estrategia Digital",
       "time": "Hoy",
-      "title": "Ad Tech Briefing: Google’s AI-reckoning",
-      "summary": "Google's Q3 earnings reveal AI Mode’s impact on search advertising growth, plus ongoing diminishing returns from ad tech.",
-      "link": "https://digiday.com/media-buying/ad-tech-briefing-googles-ai-reckoning/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+      "title": "WTF is scene-level targeting for CTV?",
+      "summary": "This WTF guide, sponsored by Wurl, explores how CTV advertisers are driving positive attention and improved performance across the entire funnel by aligning creative with relevant onscreen context through scene-level tar...",
+      "link": "https://digiday.com/sponsored/wtf-scene-level-targeting-ctv/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
       "source": "Digiday"
     },
     {
       "tag": "Inteligencia Artificial",
       "time": "Hoy",
-      "title": "Netflix’s new AI Discover tab helps you find something to watch based on your mood",
-      "summary": "The first experimental feature under the tab will allow users to get recommendations based on what they're currently in the mood for.",
-      "link": "https://techcrunch.com/2026/11/03/netflixs-new-ai-discover-tab-helps-you-find-something-to-watch-based-on-your-mood/",
+      "title": "Open source AI is booming. Hugging Face explains who profits.",
+      "summary": "Open source models are becoming more mainstream as enterprises, governments and startups alike rely on the promise of lower costs, more control, and more flexibility. But as increasingly capable models become more freely...",
+      "link": "https://techcrunch.com/video/open-source-ai-is-booming-hugging-face-explains-who-profits/",
       "source": "TechCrunch AI"
     }
   ]
