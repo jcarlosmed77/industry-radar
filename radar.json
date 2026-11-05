@@ -1,28 +1,28 @@
 {
-  "updated_at": "04/11/2026 19:38",
+  "updated_at": "05/11/2026 19:47",
   "articles": [
     {
       "tag": "AdTech & Medios",
       "time": "Hoy",
-      "title": "Intent Data Is A Gift, With Edible Brands",
-      "summary": "Edible Arrangements sells 350 SKUs on its website year-round. But for Valentine’s Day and on Mother’s Day, only around 10% of them are available to buy. That might sound like a counterintuitive move for a retailer on its...",
-      "link": "https://www.adexchanger.com/adexchanger-talks/intent-data-is-a-gift-with-edible-brands/",
+      "title": "AppLovin Is Back To Smashing Earnings But Investors Are Slow To Buy",
+      "summary": "AppLovin is growing at a blistering pace, but Wall Street investors remain cautious about the business. The mobile ad tech company earned just shy of $2.2 billion in Q3 this year, per the company’s earnings report after-...",
+      "link": "https://www.adexchanger.com/platforms/applovin-is-back-to-smashing-earnings-but-investors-are-slow-to-buy/",
       "source": "AdExchanger"
     },
     {
       "tag": "Estrategia Digital",
       "time": "Hoy",
-      "title": "WTF is scene-level targeting for CTV?",
-      "summary": "This WTF guide, sponsored by Wurl, explores how CTV advertisers are driving positive attention and improved performance across the entire funnel by aligning creative with relevant onscreen context through scene-level tar...",
-      "link": "https://digiday.com/sponsored/wtf-scene-level-targeting-ctv/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+      "title": "How TF is the grocery store a media channel?",
+      "summary": "This WTF guide, sponsored by Grocery TV, explores how marketers are reimagining in-store retail media to engage consumers inside the grocery store.",
+      "link": "https://digiday.com/sponsored/in-store-grocery-media/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
       "source": "Digiday"
     },
     {
       "tag": "Inteligencia Artificial",
       "time": "Hoy",
-      "title": "Open source AI is booming. Hugging Face explains who profits.",
-      "summary": "Open source models are becoming more mainstream as enterprises, governments and startups alike rely on the promise of lower costs, more control, and more flexibility. But as increasingly capable models become more freely...",
-      "link": "https://techcrunch.com/video/open-source-ai-is-booming-hugging-face-explains-who-profits/",
+      "title": "Meta warns that election backlash against data centers could make AI expansion harder",
+      "summary": "Meta warns that growing political opposition to data centers could threaten future AI investments, as communities push back against massive infrastructure projects.",
+      "link": "https://techcrunch.com/2026/11/05/metas-warns-that-election-backlash-against-data-centers-could-make-ai-expansion-harder/",
       "source": "TechCrunch AI"
     }
   ]
