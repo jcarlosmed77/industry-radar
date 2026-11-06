@@ -1,28 +1,28 @@
 {
-  "updated_at": "05/11/2026 19:47",
+  "updated_at": "06/11/2026 19:11",
   "articles": [
     {
       "tag": "AdTech & Medios",
       "time": "Hoy",
-      "title": "AppLovin Is Back To Smashing Earnings But Investors Are Slow To Buy",
-      "summary": "AppLovin is growing at a blistering pace, but Wall Street investors remain cautious about the business. The mobile ad tech company earned just shy of $2.2 billion in Q3 this year, per the company’s earnings report after-...",
-      "link": "https://www.adexchanger.com/platforms/applovin-is-back-to-smashing-earnings-but-investors-are-slow-to-buy/",
+      "title": "Will The Blue Wave Midterms Put A Damper On Ad Tech M&A?",
+      "summary": "It’s been a hot year for mergers and acquisitions in ad tech and media. But the M&#38;A trend might be due for a cooldown. Between DoorDash-Instacart, Publicis-LiveRamp, Nielsen-DoubleVerify, Skydance-Paramount and Stagw...",
+      "link": "https://www.adexchanger.com/the-big-story/will-the-blue-wave-midterms-put-a-damper-on-ad-tech-ma/",
       "source": "AdExchanger"
     },
     {
       "tag": "Estrategia Digital",
       "time": "Hoy",
-      "title": "How TF is the grocery store a media channel?",
-      "summary": "This WTF guide, sponsored by Grocery TV, explores how marketers are reimagining in-store retail media to engage consumers inside the grocery store.",
-      "link": "https://digiday.com/sponsored/in-store-grocery-media/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+      "title": "Amazon’s shopping agent now takes orders by text, with Sponsored Product ads in the replies",
+      "summary": "Amazon’s shopping agent now takes orders by text message and the thread where those orders get placed will carry ads.",
+      "link": "https://digiday.com/media-buying/amazons-shopping-agent-now-takes-orders-by-text-with-sponsored-product-ads-in-the-replies/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
       "source": "Digiday"
     },
     {
       "tag": "Inteligencia Artificial",
       "time": "Hoy",
-      "title": "Meta warns that election backlash against data centers could make AI expansion harder",
-      "summary": "Meta warns that growing political opposition to data centers could threaten future AI investments, as communities push back against massive infrastructure projects.",
-      "link": "https://techcrunch.com/2026/11/05/metas-warns-that-election-backlash-against-data-centers-could-make-ai-expansion-harder/",
+      "title": "Hundreds of Artex AI hacking tools found publicly exposed to the web",
+      "summary": "Security researchers found hundreds of servers hosting the penetration testing tool Artex exposed to the internet, allowing anyone access to the hacking tool.",
+      "link": "https://techcrunch.com/2026/11/06/hundreds-of-artex-ai-hacking-tools-found-publicly-exposed-to-the-web/",
       "source": "TechCrunch AI"
     }
   ]
