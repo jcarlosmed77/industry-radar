@@ -1,28 +1,28 @@
 {
-  "updated_at": "11/11/2026 19:27",
+  "updated_at": "12/11/2026 19:45",
   "articles": [
     {
       "tag": "AdTech & Medios",
       "time": "Hoy",
-      "title": "Stop Buying Lemons, With SWYM.ai",
-      "summary": "Running a programmatic campaign is like walking into a grocery store with a budget you have to spend before the place closes, and you have no way to tell the lemons from the cherries until you’ve already paid. Oh, and if...",
-      "link": "https://www.adexchanger.com/adexchanger-talks/stop-buying-lemons-with-swym-ai/",
+      "title": "Google Will Now Tell You Exactly How Much It’s Crediting You For Invalid Traffic",
+      "summary": "Digital advertisers have always wondered exactly how much of their ad budgets they’re wasting on bots. Now, Google will tell them. Today, Google Ads announced it’s adding a new feature called the Invalid Traffic Overview...",
+      "link": "https://www.adexchanger.com/platforms/google-will-now-tell-you-exactly-how-much-its-crediting-you-for-invalid-traffic/",
       "source": "AdExchanger"
     },
     {
       "tag": "Estrategia Digital",
       "time": "Hoy",
-      "title": "How a sports betting creator drove 200 million short-form views of his podcast",
-      "summary": "Zach “Mystic Zach” Hirsch has figured out how to maximize engagement around sports-betting content while staying brand safe.",
-      "link": "https://digiday.com/media/how-a-sports-betting-creator-drove-200-million-short-form-views-of-his-podcast/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+      "title": "Yahoo becomes first licensee of ‘Spotify-like’ collective AI content licensing model",
+      "summary": "Yahoo is the first licensee of the Internet Licensing Collective, offering publishers a new way to get paid for content used in AI search.",
+      "link": "https://digiday.com/media/yahoo-becomes-first-licensee-of-spotify-like-collective-ai-content-licensing-model/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
       "source": "Digiday"
     },
     {
       "tag": "Inteligencia Artificial",
       "time": "Hoy",
-      "title": "Congress to call Jensen Huang in to answer for alleged Chinese spy affair",
-      "summary": "Nvidia CEO Jensen Huang has until the end of the day Wednesday to answer a call from House Republicans for a closed-door briefing on his affair with alleged Chinese spy.",
-      "link": "https://techcrunch.com/2026/11/11/congress-to-call-jensen-huang-in-to-answer-for-alleged-chinese-spy-affair/",
+      "title": "Google’s latest Search upgrade promises better answers to your most complicated questions",
+      "summary": "Powered by Gemini 4 Hydrogen, Google's AI Mode is getting better at understanding complex queries, surfacing relevant links, and delivering richer visual responses.",
+      "link": "https://techcrunch.com/2026/11/12/googles-latest-search-upgrade-promises-better-answers-to-your-most-complicated-questions/",
       "source": "TechCrunch AI"
     }
   ]
