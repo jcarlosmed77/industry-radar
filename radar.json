@@ -1,5 +1,5 @@
 {
-  "updated_at": "14/11/2026 17:51",
+  "updated_at": "15/11/2026 18:42",
   "articles": [
     {
       "tag": "AdTech & Medios",
@@ -20,9 +20,9 @@
     {
       "tag": "Inteligencia Artificial",
       "time": "Hoy",
-      "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
-      "summary": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
-      "link": "https://techcrunch.com/2026/11/14/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
+      "title": "Where was Nvidia’s security team?",
+      "summary": "Nvidia’s security chief quietly left in August, and now that CEO Jensen Huang has stepped down over his relationships, including one with an executive at a company suspected of funneling chips to China, a former intellig...",
+      "link": "https://techcrunch.com/2026/11/14/where-was-nvidias-security-team/",
       "source": "TechCrunch AI"
     }
   ]
