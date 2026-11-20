@@ -1,28 +1,28 @@
 {
-  "updated_at": "19/11/2026 20:21",
+  "updated_at": "20/11/2026 19:52",
   "articles": [
     {
       "tag": "AdTech & Medios",
       "time": "Hoy",
-      "title": "Don’t Give Privacy Regulators An Excuse To Come Knocking",
-      "summary": "Every time another state passes a privacy law or amends an existing one, brands have to tighten and update their vendor contracts. “If you’re doing business across state borders, your data goes everywhere,” said Patrick ...",
-      "link": "https://www.adexchanger.com/privacy/dont-give-privacy-regulators-an-excuse-to-come-knocking/",
+      "title": "Your Next Customer Is in the Chat. Why Last-Click Can’t Tell the Whole Story.",
+      "summary": "Snap’s Head of Performance Marketing GTM Rick Lucas and Kitsch CMO Ying Ying Kuang on why relying on last-click attribution hides your best customers, and how Clicks + Deterministic Views (CDV) paint a fuller picture of ...",
+      "link": "https://www.adexchanger.com/inside-the-stack/your-next-customer-is-in-the-chat-why-last-click-cant-tell-the-whole-story/",
       "source": "AdExchanger"
     },
     {
       "tag": "Estrategia Digital",
       "time": "Hoy",
-      "title": "Correcting the TV ad market’s imperfect shift to streaming",
-      "summary": "Evan Rutchik, president and Chief Strategy Officer, Viamedia.ai The TV ad industry’s shift from linear to streaming is real, but the financial truth underlying that shift may not align with many people’s perception of th...",
-      "link": "https://digiday.com/sponsored/correcting-the-tv-ad-markets-imperfect-shift-to-streaming/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+      "title": "Future of Marketing Briefing: Consulting firms revive their marketing ambitions in the C-suite the holdcos covet",
+      "summary": "Consulting giants Deloitte Digital and Accenture Song have started selling marketing in the C-suite with a fresh push.",
+      "link": "https://digiday.com/marketing/future-of-marketing-briefing-consulting-firms-revive-their-marketing-ambitions-in-the-c-suite-the-holdcos-covet/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
       "source": "Digiday"
     },
     {
       "tag": "Inteligencia Artificial",
       "time": "Hoy",
-      "title": "The unfolding Jensen Huang scandal: a timeline",
-      "summary": "Jensen Huang has resigned from Nvidia following an affair, which could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.",
-      "link": "https://techcrunch.com/2026/11/19/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
+      "title": "AI claimed a solution to the 167 year-old Riemann Hypothesis — and a human did, too",
+      "summary": "Mathematicians are having their minds blown by the latest AI-driven result—and there's a competing human solution, too.",
+      "link": "https://techcrunch.com/2026/11/20/ai-claimed-a-solution-to-the-167-year-old-riemann-hypothesis-and-a-human-did-too/",
       "source": "TechCrunch AI"
     }
   ]
